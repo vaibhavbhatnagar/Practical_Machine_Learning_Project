@@ -1,6 +1,5 @@
----
-title: "Machine Learning: Predict the manner of exercise was done"
----
+Machine Learning: Predict the manner of exercise was done
+========================================================
 
 ### Synopsis
 
