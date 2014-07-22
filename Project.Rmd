@@ -1,3 +1,6 @@
+---
+output: pdf_document
+---
 Machine Learning: Predict the manner of exercise was done
 ========================================================
 
